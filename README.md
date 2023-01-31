@@ -7,9 +7,9 @@ A rehousing project to learn a bit about 3d printing and rehousing a camera in a
 
 ## TODO
 
-* Allow nato rail on both sides
-* Create holes for cheese plates
-* Add integrated coldshoe in top plate
+* Allow nato rail on both sides (DONE)
+* Create holes for cheese plates (DONE ISH?)
+* Add integrated coldshoe in top plate (Added a nato rail instead)
 * Wire routing would be a nice to have?
 * Create nicer designs for the side and top plates 
 
